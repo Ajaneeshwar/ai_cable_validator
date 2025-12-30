@@ -160,8 +160,8 @@ Ensure you have the following installed:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cable-design-validator.git
-cd cable-design-validator
+git clone https://github.com/yourusername/ai_cable_validator.git
+cd ai_cable_validator
 ```
 
 #### 2️⃣ Backend Setup
