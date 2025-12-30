@@ -394,15 +394,6 @@ npm run test
 | **Type Safety** | Full TypeScript frontend + Pydantic backend prevents runtime errors and improves DX |
 | **Premium UX** | Dark theme, smooth animations, and responsive design for professional appearance |
 
----
-
-## 🖼 Screenshots
-
-> *Screenshots will be added after deploying the application*
-
-| Home Page | Validation Results | AI Reasoning |
-|-----------|-------------------|--------------|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
 
 ---
 
@@ -417,30 +408,12 @@ npm run test
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
----
-
 ## 👨‍💻 Author
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- GitHub: [@Ajaneeshwar](https://github.com/Ajaneeshwar)
+- LinkedIn: [Ajaneeshwar](https://www.linkedin.com/in/ajaneeshwar-s-378818250)
+- Email: ajaneeshwar05@gmail.com
 
 ---
 
